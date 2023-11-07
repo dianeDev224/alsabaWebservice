@@ -1,0 +1,23 @@
+{
+  "name": "alsaba-backend",
+  "version": "1.0.0",
+  "description": "thisproject is the backend part all alsaba system ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianeDev224/alsabaWebservice.git"
+  },
+  "keywords": [
+    "alsaba",
+    "money"
+  ],
+  "author": "oumar diane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dianeDev224/alsabaWebservice/issues"
+  },
+  "homepage": "https://github.com/dianeDev224/alsabaWebservice#readme"
+}
