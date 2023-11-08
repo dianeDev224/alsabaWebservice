@@ -15,11 +15,11 @@ export interface User extends Document {
 
 
 const UserSchema = new Schema<User>({
-    email: { type: String },
-    firstName: { type: String },
-    lastName: { type: String },
-    telephone: { type: String },
-    address: { type: String }
+    email: { type: "String" },
+    firstName: { type: "String" },
+    lastName: { type: "String" },
+    telephone: { type: "String" },
+    address: { type: "String" }
 })
 
 export const UserModel = model<User>("User", UserSchema);
